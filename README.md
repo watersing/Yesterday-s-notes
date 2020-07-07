@@ -1,11 +1,11 @@
-# Yesterday-s-notes
+## Yesterday-s-notes
 20200706
-Command: 
-ls  
+- Command: 
+        - ls  
 
-pwd
+         - pwd
 
-git config --global user.name 'watersing'
+         - git config --global user.name 'watersing'
 
 git config --global user.email '***@***.com'
 
